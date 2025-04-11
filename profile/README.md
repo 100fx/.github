@@ -12,6 +12,5 @@ Our company specializes in building robust, intelligent solutions tailored for t
 
 ---
 
-**Official Website:** [https://100fx.studio](https://100fx.studio) (*Please verify URL*)
-
+**Official Website:** [https://100fx.studio](https://100fx.studio)
 **Contact & Support:** Available via the official website.
