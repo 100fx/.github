@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Overview
-**100fx Studios** is a cutting‑edge **trading development studio** dedicated to building and deploying AI‑driven algorithmic strategies and professional tools. Whether you’re looking for **premium signals**, **automated bots**, or a **real‑time dashboard**, we’ve got you covered. :contentReference[oaicite:0]{index=0}
+**100fx Studios** is a cutting‑edge **trading development studio** dedicated to building and deploying AI‑driven algorithmic strategies and professional tools. Whether you’re looking for **premium signals**, **automated bots**, or a **real‑time dashboard**, we’ve got you covered. 
 
 ---
 
